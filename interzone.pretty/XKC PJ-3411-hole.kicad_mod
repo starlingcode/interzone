@@ -1,0 +1,13 @@
+(footprint "XKC PJ-3411-hole" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr smd)
+  (fp_text reference "REF**" (at 0 -8 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.1)))
+    (tstamp 513f7932-6a54-4bdc-965c-09cc5ad0902a)
+  )
+  (fp_text value "XKC PJ-3411-hole" (at 0 1 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 78279217-3ae5-49af-973e-3fd0d6ab717f)
+  )
+  (pad "1" thru_hole circle (at 0 0) (size 7.2 7.2) (drill 7.2) (layers "*.Cu" "*.Mask") (tstamp 96d683e5-94d4-4a58-8293-ab05cb5c7742))
+)
